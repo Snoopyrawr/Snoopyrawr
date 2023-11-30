@@ -4,5 +4,5 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snoopyrawr&label=Profile%20views&color=840807&style=flat" alt="snoopyrawr" /> </p>
 
-- 📫 How to reach me **iredjyllbrint@gmail.com**
+- ✉️ How to reach me **iredjyllbrint@gmail.com**
 
