@@ -5,8 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snoopyrawr&label=Profile%20views&color=840807&style=flat" alt="snoopyrawr" /> </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-user-contribution.svg" />
 </picture>
 
