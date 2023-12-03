@@ -1,5 +1,5 @@
-<h3>Hi, I'm Redjyll Brint I. Ondo.</h3>
-<p>An Aspiring Developer!</p>
+<h1>Hi, I'm Redjyll Brint I. Ondo.</h3>
+<h3>An Aspiring Developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snoopyrawr&label=Profile%20views&color=840807&style=flat" alt="snoopyrawr" /> </p>
 
