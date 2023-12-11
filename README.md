@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Redjyll Brint I. Ondo</h1>
+<h1 align="center">Hi, I'm Redjyll Brint I. Ondo.</h1>
 <h3  align="center">An Aspiring Developer!</h3>
 
 <p align="center">
