@@ -1,6 +1,3 @@
-<h1 align="center">Hi, I'm Redjyll Brint I. Ondo.</h1>
-<h3  align="center">An Aspiring Developer!</h3>
-
 <p align="center">
 <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats-gold-nine.vercel.app/?user=Snoopyrawr&theme=shadow-red" alt="GitHub Streak" />
