@@ -4,8 +4,6 @@
   </a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=snoopyrawr&label=Profile%20views&color=840807&style=flat" alt="snoopyrawr" /> </p>
-
 <picture>
   <img alt="github-snake" src="https://github.com/Snoopyrawr/Snoopyrawr/blob/main/github-user-contribution.svg" />
 </picture>
