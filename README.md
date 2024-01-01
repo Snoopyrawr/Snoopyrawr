@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Snoopyrawr/Snoopyrawr/blob/main/notice-001.png" title="Tools" alt="Tools" width="15" height="15"/>&nbsp; ```diff -The repositories are temporarily set to private.``` <img align="right" src="https://komarev.com/ghpvc/?username=snoopyrawr&label=Visitors&color=9a0000&style=flat" alt="snoopyrawr" /> 
+<p><img src="https://github.com/Snoopyrawr/Snoopyrawr/blob/main/notice-001.png" title="Tools" alt="Tools" width="15" height="15"/>&nbsp; The repositories are temporarily set to private. <img align="right" src="https://komarev.com/ghpvc/?username=snoopyrawr&label=Visitors&color=9a0000&style=flat" alt="snoopyrawr" /> </p>
 
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Snoopyrawr&theme=shadow-red&border_radius=10&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" /></a>
