@@ -14,5 +14,9 @@
    <img src="https://github.com/Snoopyrawr/Snoopyrawr/blob/main/sass.png" title="SASS" alt="SASS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/Snoopyrawr/Snoopyrawr/blob/main/react.png" title="React" alt="React" width="50" height="50"/>&nbsp;
   <img src="https://github.com/Snoopyrawr/Snoopyrawr/blob/main/java.png" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/Snoopyrawr/Snoopyrawr/blob/main/python.png" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/Snoopyrawr/Snoopyrawr/blob/main/python.png" title="Python" alt="Python" width="50" height="50"/>&nbsp;
 </p>
+
+<h3 align="center">
+<img src="https://github.com/Snoopyrawr/Snoopyrawr/blob/main/learning.png" title="Learning in Progress" alt="Learning in Progress" width="15" height="15"/>&nbsp; LEARNING IN PROGRESS
+</h3>
