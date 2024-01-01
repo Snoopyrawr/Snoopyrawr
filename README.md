@@ -4,6 +4,6 @@
 
 <img src="https://github.com/Snoopyrawr/Snoopyrawr/blob/main/tools.png" title="Tools" alt="Tools" width="20" height="20"/>&nbsp; TECHNOLOGIES
 
-<p>
-  <img src="https://github.com/Snoopyrawr/Snoopyrawr/blob/main/react.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<p align="center">
+  <img src="https://github.com/Snoopyrawr/Snoopyrawr/blob/main/react.png" title="Java" alt="Java" width="80" height="80"/>&nbsp;
 </p>
