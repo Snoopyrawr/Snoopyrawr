@@ -5,6 +5,6 @@
 </p>
 
 <picture>
-  <img alt="github-snake" src="https://github.com/Snoopyrawr/Snoopyrawr/blob/main/github-user-contribution-02.svg" />
+  <img alt="github-snake" src="https://github.com/Snoopyrawr/Snoopyrawr/blob/main/github-user-contribution.svg" />
 </picture>
 
