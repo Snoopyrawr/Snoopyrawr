@@ -20,3 +20,7 @@
 <h3 align="center">
 <img src="https://github.com/Snoopyrawr/Snoopyrawr/blob/main/learning.png" title="Learning in Progress" alt="Learning in Progress" width="20" height="20"/>&nbsp; LEARNING IN PROGRESS
 </h3>
+
+<p  align="center">
+   <img src="https://github.com/Snoopyrawr/Snoopyrawr/blob/main/typescript.png" title="Typescript" alt="Typescript" width="50" height="50"/>&nbsp;
+</p>
