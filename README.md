@@ -4,8 +4,8 @@
 
 <h3 align="center">
 <img src="https://github.com/Snoopyrawr/Snoopyrawr/blob/main/tools.png" title="Tools" alt="Tools" width="20" height="20"/>&nbsp; TECHNOLOGIES
-</h3
+</h3>
 
 <p  align="center">
-  <img src="https://github.com/Snoopyrawr/Snoopyrawr/blob/main/react.png" title="Java" alt="Java" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/Snoopyrawr/Snoopyrawr/blob/main/react.png" title="Java" alt="Java" width="50" height="50"/>&nbsp;
 </p>
