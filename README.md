@@ -18,5 +18,5 @@
 </p>
 
 <h3 align="center">
-<img src="https://github.com/Snoopyrawr/Snoopyrawr/blob/main/learning.png" title="Learning in Progress" alt="Learning in Progress" width="15" height="15"/>&nbsp; LEARNING IN PROGRESS
+<img src="https://github.com/Snoopyrawr/Snoopyrawr/blob/main/progress-bar.png" title="Learning in Progress" alt="Learning in Progress" width="15" height="15"/>&nbsp; LEARNING IN PROGRESS
 </h3>
