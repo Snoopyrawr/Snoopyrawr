@@ -3,11 +3,11 @@
 </p>
 
 <h3 align="center">
-<img src="https://github.com/Snoopyrawr/Snoopyrawr/blob/main/darker-tools.png" title="Tools" alt="Tools" width="20" height="20"/>&nbsp; TECHNOLOGIES
+<img src="https://github.com/Snoopyrawr/Snoopyrawr/blob/main/tools.png" title="Tools" alt="Tools" width="20" height="20"/>&nbsp; TECHNOLOGIES
 </h3>
 
 <p  align="center">
-   <img src="https://github.com/Snoopyrawr/Snoopyrawr/blob/main/light-tailwind.png" title="Tailwind" alt="Tailwind" width="50" height="50"/>&nbsp;
+   <img src="https://github.com/Snoopyrawr/Snoopyrawr/blob/main/tailwind.png" title="Tailwind" alt="Tailwind" width="50" height="50"/>&nbsp;
    <img src="https://github.com/Snoopyrawr/Snoopyrawr/blob/main/sass.png" title="SASS" alt="SASS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/Snoopyrawr/Snoopyrawr/blob/main/react.png" title="React" alt="React" width="50" height="50"/>&nbsp;
 </p>
