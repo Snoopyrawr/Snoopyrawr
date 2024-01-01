@@ -1,5 +1,5 @@
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=snoopyrawr&label=Profile%20views&color=0e75b6&style=flat" alt="snoopyrawr" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=snoopyrawr&label=Profile%20views&color=#9a0000&style=flat" alt="snoopyrawr" /> </p>
 
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Snoopyrawr&theme=shadow-red&border_radius=10&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" /></a>
