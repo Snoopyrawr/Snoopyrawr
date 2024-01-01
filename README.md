@@ -1,5 +1,5 @@
 <p><i>When I used to read fairy tales, I fancied that kind of thing never happened, and now here I am in the middle of one!
--Lewis Carroll, Alice's Adventures in Wonderland</i></p>
+<br>-Lewis Carroll, Alice's Adventures in Wonderland</i></p>
 
 <p align="center">
 <a href="https://git.io/streak-stats">
