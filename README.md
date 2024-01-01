@@ -1,6 +1,3 @@
-> [!warning]  
-> Critical content demanding immediate user attention due to potential risks.
-
 <p><img src="https://github.com/Snoopyrawr/Snoopyrawr/blob/main/notice-001.png" title="Tools" alt="Tools" width="15" height="15"/>&nbsp;  The repositories are temporarily set to private. <img align="right" src="https://komarev.com/ghpvc/?username=snoopyrawr&label=Visitors&color=9a0000&style=flat" alt="snoopyrawr" /> </p>
 
 <p align="center">
