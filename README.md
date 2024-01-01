@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-<img src="https://github.com/Snoopyrawr/Snoopyrawr/blob/main/tools.png" title="Tools" alt="Tools" width="18" height="18"/>&nbsp; TECHNOLOGIES
+<img src="https://github.com/Snoopyrawr/Snoopyrawr/blob/main/tools.png" title="Tools" alt="Tools" width="18" height="15"/>&nbsp; TECHNOLOGIES
 </h3>
 
 <p  align="center">
