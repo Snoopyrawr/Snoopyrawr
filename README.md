@@ -12,7 +12,6 @@
    <img src="https://github.com/Snoopyrawr/Snoopyrawr/blob/main/tailwind.png" title="Tailwind" alt="Tailwind" width="50" height="50"/>&nbsp;
    <img src="https://github.com/Snoopyrawr/Snoopyrawr/blob/main/sass.png" title="SASS" alt="SASS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/Snoopyrawr/Snoopyrawr/blob/main/react.png" title="React" alt="React" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/Snoopyrawr/Snoopyrawr/blob/main/java.png" title="Java" alt="Java" width="50" height="50"/>&nbsp;
   <img src="https://github.com/Snoopyrawr/Snoopyrawr/blob/main/python.png" title="Python" alt="Python" width="50" height="50"/>&nbsp;
 </p>
 
